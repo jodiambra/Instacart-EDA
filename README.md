@@ -1,5 +1,6 @@
 # Instacard-EDA
 Instacart Exploratory Data Analysis
+![image](https://user-images.githubusercontent.com/115895428/216845847-c3946b83-65c9-4373-824c-188fa68c1d17.png)
 
 ## Skills Demonstrated
     Pandas
